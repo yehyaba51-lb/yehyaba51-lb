@@ -34,4 +34,4 @@ A full-stack learning and administration platform built around strict **Role-Bas
 
 ### Availability
 Available for remote international freelance builds (multi-role portals, custom CRUD dashboards, and booking/workflow systems).
-- **Contact:** [Your Email] *(we will add your X, Contra, and LinkedIn links here as we set them up)*
+- **Contact:** yehyaba51wd@gmail.com
